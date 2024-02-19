@@ -30,7 +30,7 @@ Two Solution Approaches are taken into consideration:
 </div>
 
 Average time delay:
-|      |          |
+|Hydrophones|Delay (in Seconds)|
 |------|----------|
 | dt12 | 32.03333 |
 | dt34 | -5.2     |
